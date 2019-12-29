@@ -1,27 +1,5 @@
 # 他們回來了
 
-## 檔案位置
-
-### 1. source code
-    
-    face_recognition_demo > face_recognition_demo.py
-
-    src
-
-### 1. data
-
-    face_data
-
-    face_gallery
-
-### 1. 操作手冊
-
-    操作手冊.pdf
-
-### 1. ppt 投影片
-
-    PPT.pptx
-
 ## face
 ```
 cd /home/user/AI_roll_call/src
