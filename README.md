@@ -1,5 +1,9 @@
 # 他們回來了
 
+## sorce
+
+    source /opt/intel/openvino/bin/setupvars.sh
+
 ## face
 ```
 cd /home/user/AI_roll_call/src
